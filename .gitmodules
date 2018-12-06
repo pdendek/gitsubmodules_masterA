@@ -1,3 +1,6 @@
 [submodule "subA"]
 	path = subA
 	url = git@github.com:pdendek/gitsubmodules_slaveA.git
+[submodule "subB"]
+	path = subB
+	url = git@github.com:pdendek/gitsubmodules_slaveB.git
